@@ -33,3 +33,6 @@ build/
 .flutter-plugins
 .flutter-plugins-dependencies
 flutter_export_environment.sh
+
+# Ephemeral Flutter build artifacts for iOS
+ios/Flutter/ephemeral/

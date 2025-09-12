@@ -1,3 +1,10 @@
+## 8.0.0
+
+- Updated kotlin version to 2.2 
+- Updated gradle version to 8.13.0
+- Updated android compile SDK to 36
+- Updated example app dependencies
+
 ## 7.0.0
 
 - Add Swift Package Manager support.
